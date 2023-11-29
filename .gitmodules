@@ -1,0 +1,3 @@
+[submodule "hirst_painting"]
+	path = hirst_painting
+	url = git@github.com:larsonguy/hirst_painting.git
